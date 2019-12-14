@@ -1,0 +1,25 @@
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+title: SharoSharo
+email: sharosharo@gmail.com
+brand: Sharo Sharo
+headline: Painter
+description: > # this means to ignore newlines until "baseurl:"
+  New Site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+copyright: 2020 SharoSharo, Inc. All Rights Reserved.
+
+# Build settings
+markdown: kramdown
+
+# Account ids
+snapwidget: 247552
+
+# Contacts
+email: sharosharo@gmail.com
+phone: 
+
+# Tracking
+googleAnalitycsID: 
+

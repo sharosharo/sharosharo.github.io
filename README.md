@@ -1,1 +1,0 @@
-Sharo Sharo website
